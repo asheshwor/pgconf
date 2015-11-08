@@ -1,6 +1,6 @@
 ##Slides for the Inaugural GEP postgraduate conference
 
-This repository contains the presentation slides for the inaugural GEP postgraduate conference to be held on November 9-10.
+This repository contains the presentation slides for the inaugural GEP postgraduate conference to be held on 9 November 2015.
 
 View the presentation at [http://asheshwor.github.io/pgconf](http://asheshwor.github.io/pgconf/#/)
 
